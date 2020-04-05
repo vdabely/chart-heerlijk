@@ -72,7 +72,7 @@ const caption = (opt) => (col) => {
 const defaults = {
 	size: 100, // size of the chart (including captions)
 	axes: true, // show axes?
-	scales: 3, // show scale circles?
+	scales: 5, // show scale circles?
 	captions: true, // show captions?
 	captionsPosition: 1.2, // where on the axes are the captions?
 	smoothing: noSmoothing, // shape smoothing function
